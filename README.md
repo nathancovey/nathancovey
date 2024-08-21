@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nathancovey
+- 🌱 Currently learning how to code with the Odin Project!
+- 💞️ Looking to collaborate on CodeClimbers
+- 📫 Chat with me on X: @nathan_covey
+- 🏀 Fun fact: I love basketball
